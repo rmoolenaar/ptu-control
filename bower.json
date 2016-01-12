@@ -1,0 +1,16 @@
+{
+  "name": "ptu-control",
+  "description": "A AngularJS project to control a PTU unit",
+  "version": "0.0.1",
+  "homepage": "https://github.com/rmoolenaar/ptu-control",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "angular": "~1.4.0",
+    "angular-route": "~1.4.0",
+    "angular-loader": "~1.4.0",
+    "angular-mocks": "~1.4.0",
+    "html5-boilerplate": "~5.2.0",
+    "jquery": "1.9.1"
+  }
+}
